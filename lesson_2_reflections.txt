@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Answer: Run "git init" to initialize a repository to build the .git file which is the object. Group files that will make logical change together to commit. 
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Working Directory - Original Files 
+Staging Area - Stage files for commit 
+Repository - Commits that include history information 
