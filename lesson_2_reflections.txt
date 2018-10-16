@@ -8,3 +8,14 @@ How is the staging area different from the working directory and the repository?
 Working Directory - Original Files 
 Staging Area - Stage files for commit 
 Repository - Commits that include history information 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Answer: Commit per logical change at a time. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Answer: When you have addtional features or re-design some of the functionalities e.g. language version. When branch is checked out, you will only make changes to the branch commit and leave mater unchanged. 
+
+
+
