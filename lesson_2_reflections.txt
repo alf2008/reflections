@@ -17,5 +17,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 Answer: When you have addtional features or re-design some of the functionalities e.g. language version. When branch is checked out, you will only make changes to the branch commit and leave mater unchanged. 
 
+How do the diagrams help you visualize the branch structure?
 
+Answer: Diagram gives you an overview about the Git Branches you have e.g. Master, New Features added so to visualize your branch structures. 
 
