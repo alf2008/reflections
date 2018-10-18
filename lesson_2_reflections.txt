@@ -1,4 +1,5 @@
-What happens when you initialize a repository? Why do you need to do it?
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?What happens when you initialize a repository? Why do you need to do it?
 
 Answer: Run "git init" to initialize a repository to build the .git file which is the object. Group files that will make logical change together to commit. 
 
@@ -21,3 +22,6 @@ How do the diagrams help you visualize the branch structure?
 
 Answer: Diagram gives you an overview about the Git Branches you have e.g. Master, New Features added so to visualize your branch structures. 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Answer: Add the new feature to the master branch and branch lablel is to be removed. This way we keep track of all changes via the master branch. 
