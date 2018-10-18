@@ -25,7 +25,7 @@ when you need later.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Answer: You could use other cloud based collaboration platform however there may be issus with version control or data sync. ≈
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
