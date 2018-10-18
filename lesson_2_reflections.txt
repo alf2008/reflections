@@ -25,3 +25,10 @@ Answer: Diagram gives you an overview about the Git Branches you have e.g. Maste
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Answer: Add the new feature to the master branch and branch lablel is to be removed. This way we keep track of all changes via the master branch. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Answer: Pros: Audo merge will merge whenever there are multiple branches so you won't lose any update made. Manual process merges when it is determined the update needs to be merged
+into the master branch. No unnecessary merge done. 
+
+Crons: Auto merge will likely introduce unnecessary merge while Manual merge may lead to loss of an update. 
