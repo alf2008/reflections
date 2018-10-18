@@ -6,17 +6,21 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Answer: You would pull from remote when there is any change made to the repository. Auto update will sync up between your local and remote repository however there may be unnecessary sync when there is no change. 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forking -- Making a copy of a repository on GitHub
+    Branching -- Branch your workflow with your code development on your local machine
+    Cloning -- Clone between Remote and your Local machine. 
+	
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Answer: you can continue working on your project locally and compare the changes with remote e.g. git diff master origin/master. Then push the changes to GitHub
+when you need later. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
